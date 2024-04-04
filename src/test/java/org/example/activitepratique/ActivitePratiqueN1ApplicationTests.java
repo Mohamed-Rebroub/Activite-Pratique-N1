@@ -1,0 +1,13 @@
+package org.example.activitepratique;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class ActivitePratiqueN1ApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
